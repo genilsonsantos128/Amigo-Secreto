@@ -1,16 +1,6 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <title>Projeto Amigo Secreto</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        h1, h2, h3 { color: #333; }
-        p { margin: 0.8em 0; }
-        ul { margin: 0.8em 0; padding-left: 20px; }
-        pre { background-color: #f4f4f4; padding: 1em; border: 1px solid #ddd; border-radius: 5px; }
-        img { max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; }
-    </style>
+
 </head>
 <body>
     <h1>Projeto Amigo Secreto</h1>
